@@ -9,7 +9,7 @@ html{
 }
 
 .hero-section-bg{
-    background-image: url(/images/background-hero.jpg);
+    background-image: url(../images/background-hero.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -159,13 +159,13 @@ input:checked + label.descricao{
 }
 
 .cartao[for="c1"]{
-  background-image: url('/images/tindog-c1.png');
+  background-image: url(../images/tindog-c1.png);
 }
 .cartao[for="c2"]{
-  background-image: url('/images/mondrian.jpg');
+  background-image: url(../images/mondrian.jpg);
 }
 .cartao[for="c3"]{
-  background-image: url('/images/git-c3.png');
+  background-image: url(../images/git-c3.png);
 }
 
 .projetos {
