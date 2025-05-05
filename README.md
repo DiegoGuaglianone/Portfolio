@@ -26,5 +26,5 @@ O objetivo é apresentar projetos, informações sobre mim e formas de contato d
 
 Projeto disponível no GitHub Pages
 
-https://diegoguaglianone.github.io/Capstone-Project/ 
+https://diegoguaglianone.github.io/Portfolio/
 
